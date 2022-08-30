@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<meta name="author" content="Deedray">
+<meta name="description" content="My webpage">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>
+        Introducing Myself
+    </title>
+    <h1> My First Webpage  (HTML) </h1>
+    <p> My name is Deedray Ann F. Capitulo, a 3rd year BS in Computer Science student and I am learning to code 
+        because I want to build cool things. <br>
+        <a href="https://www.facebook.com/deedrayann.capitulo.3"
+        target="_blank"> Here is my Facebook account.
+        </a>
+        You can check my profile there. <br>
+        <br>
+        Below is a <em>selca</em>(selfie) of mine when I was in Senior Highschool in Olongapo Wesley School.
+    </p>
+<img src="Me.jpg" alt="My photo wearing my senior high uniform.">
+
+<p><h2>Below are some information about me.</h2></p>
+    <br>
+    <figure>
+        <img src="hello.png" alt="a character saying hi">
+        <figcaption>Hello, want to know more about me?</figcaption>
+    </figure>
+
+    <h2> Facts about me</h2>
+    <ol>
+        <li>I prefer to be alone when I am stressed.</li>
+        <li>My favorite colors are Purple, Red, and Green.</li>
+        <li>My stress reliever foods are carbonara, chocolates, and fries.</li>
+        <li>I don't what my talent is nor where am I good at.</li>
+        <li>I am an ambivert.</li>
+        <li>My favorite animal is cat.</li>
+        <li>My zodiac sign is scorpio.</li>
+    </ol>
+</head>
+
+<body>
+    <h2>These are the things that I often do during my free time.</h2>
+    <ul>
+        <li>Reading <em>manga, manhwa, manhua.</em></li>
+        <li>Playing online games.</li>
+        <li>Watching anime.</li>
+        <li>Streaming songs of <em>k-pop groups.</em></li>
+        <li>Watching livestreams of players.</li>
+        <li>Practicing my drawing skills.</li>
+    </ul>
+</body>
+</html>
